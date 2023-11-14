@@ -41,7 +41,7 @@ devContentSecurityPolicy: "connect-src 'self' https://some_url.com 'unsafe-eval'
 
 in forge.config.js
 
-```json
+```JS
     ...
     {
       name: "@electron-forge/plugin-webpack",
